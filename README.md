@@ -1,4 +1,4 @@
-<h1 align="center">Opa Gente!👋!</h1>
+<h1 align="center">Opa Gente!👋</h1>
 
 <h3 align="center"> Meu nome é Carlos. Sou um Geógrafo brasileiro de 24 anos buscando sempre conhecimento para ajudar a vida de todos no planeta! 🌎</h3>
 
