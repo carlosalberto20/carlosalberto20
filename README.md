@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Carlos Alberto</h1>
-<h3 align="center">A Geographer from Brasil 🌎</h3>
+<h1 align="center">Opa Gennte!👋 Meu nome é Carlos</h1>
+<h3 align="center">Sou um Geógrafo brasileiro de 23 anos buscando sempre conhecimento para ajudar a vida de todos no planeta! 🌎</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
