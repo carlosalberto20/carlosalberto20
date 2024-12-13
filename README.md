@@ -1,8 +1,8 @@
-<h1 align="center">Opa Gente!👋 Meu nome é Carlos</h1>
+<h1 align="center">Opa Gente!👋 Meu nome é Carlos!</h1>
 
 <h3 align="center">Sou um Geógrafo brasileiro de 24 anos buscando sempre conhecimento para ajudar a vida de todos no planeta! 🌎</h3>
 
-<h3 align="left">Aqui no meu repositório você vai encontrar análises geográficas, análise de dados, visualização de dados, gerenciamento de banco de dados, dentre outras interpretações e aplicações! </h3>
+<h3 align="left">Aqui no meu repositório você vai encontrar análises geográficas, análise de dados, visualização de dados, gerenciamento de banco de dados, dentre outras interpretações e aplicações! :earth_americas: :deciduous_tree: :computer: </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
