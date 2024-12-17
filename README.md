@@ -1,6 +1,6 @@
 <h1 align="center">Opa Gente!👋</h1>
 
-<h3 align="center"> Meu nome é Carlos. Sou um Geógrafo brasileiro buscando sempre conhecimento para ajudar a vida de todos no planeta! 🌎</h3>
+<h3 align="center"> Meu nome é Carlos. Sou um Geógrafo brasileiro buscando sempre conhecimento para colaborar a vida de todos no planeta! 🌎</h3>
 
 <h3 align="left">Aqui no meu repositório você vai encontrar análises geográficas, análise de dados, visualização de dados, gerenciamento de banco de dados, dentre outras interpretações e aplicações! :earth_americas: :deciduous_tree: :computer: </h3>
 
