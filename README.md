@@ -14,12 +14,13 @@
 
 🧠 Hard Skills:
 * Python;
+* QGIS;
 * Geemap;
 * Google Earth Engine;
-* QGIS;
+* Geopandas;
 * Pandas;
+* Rasterio
 * Matplotlib;
-* Seaborn;
 * Numpy.
 
 <table align="center">
