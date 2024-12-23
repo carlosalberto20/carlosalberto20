@@ -3,7 +3,7 @@
 ## Geógrafo e Analista de Geoprocessamento
 
 ### Sobre mim:
-👩‍🎓 Bacharel em Geografia pela Universidade Federal de Pernambuco (UFPE) com ênfase em Geoprocessamento, SIG, Sensoriamento Remoto e Análise de Dados.
+👩‍🎓 Bacharel em Geografia pela Universidade Federal de Pernambuco (UFPE) com foco profissional em Geoprocessamento, SIG, Sensoriamento Remoto e Análise de Dados.
 
 ⭐️ Experiências:
 * 💻 Desenvolvimento de mapas interativos usando Python;
