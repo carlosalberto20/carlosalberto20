@@ -1,6 +1,6 @@
 ## Carlos Alberto
 
-## Geógrafo e Analista de Geoprocessamento
+## Geógrafo / Geoprocessamento / Análise de Dados
 
 ### Sobre mim:
 👩‍🎓 Bacharel em Geografia pela Universidade Federal de Pernambuco (UFPE) com foco profissional em Geoprocessamento, SIG, Sensoriamento Remoto e Análise de Dados. Possui conhecimento científico e experiência profissional na área da climatologia, monitoramento agrícola e monitoramento de desmatamento.
