@@ -21,6 +21,7 @@
 * Pandas;
 * Rasterio
 * Matplotlib;
+* Scikit-Learn;
 * Numpy.
 
 <table align="center">
