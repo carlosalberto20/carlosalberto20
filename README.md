@@ -12,7 +12,7 @@
 * 💡 Análise, tratamento e gerenciamento de dados;
 * 📊 Visualização de dados.
 
-🧠 Hard Skills:
+🧠 Ferramentas:
 * Python;
 * QGIS;
 * Geemap;
