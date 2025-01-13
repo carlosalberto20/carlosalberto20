@@ -6,9 +6,8 @@
 👩‍🎓 Bacharel em Geografia pela Universidade Federal de Pernambuco (UFPE) com foco profissional em Geoprocessamento, SIG, Sensoriamento Remoto e Análise de Dados. Possui conhecimento científico e experiência profissional na área da climatologia, monitoramento agrícola e monitoramento de desmatamento.
 
 ⭐️ Experiências:
-* 💻 Desenvolvimento de mapas interativos usando Python;
+* 🗺️ Desenvolvimento de mapas interativos usando Python;
 * ⚙️ Extração e manipulação de dados geoespaciais;
-* 🗺️ Manipulação de dados e criação de mapas;
 * 💡 Análise, tratamento e gerenciamento de dados;
 * 📊 Visualização de dados.
 
