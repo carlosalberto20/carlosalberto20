@@ -31,6 +31,14 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
+        <span>QGIS</span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/QGIS_logo%2C_2017.svg/801px-QGIS_logo%2C_2017.svg.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Google Earth Engine</span><br><br>
+        <img height="64px" src="https://developers.google.com/static/earth-engine/images/landing_ee_logo_480.png">
+      </td>
+      <td width="25%" align="center">
         <span>GeoPandas</span><br><br>
         <img height="64px" src="https://geopandas.org/en/stable/_images/geopandas_logo.png">
       </td>
@@ -38,19 +46,11 @@
         <span>Pandas</span><br><br>
         <img height="64px" src="https://pandas.pydata.org/static/img/pandas.svg">
       </td>
-      <td width="25%" align="center">
-        <span>Google Earth Engine</span><br><br>
-        <img height="64px" src="https://developers.google.com/static/earth-engine/images/landing_ee_logo_480.png">
-      </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
         <span>Seaborn</span><br><br>
         <img height="64px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>QGIS</span><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/QGIS_logo%2C_2017.svg/801px-QGIS_logo%2C_2017.svg.png">
       </td>
       <td width="25%" align="center">
         <span>Geemap</span><br><br>
