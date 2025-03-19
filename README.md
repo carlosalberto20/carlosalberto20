@@ -14,8 +14,8 @@
 🛠 Ferramentas:
 * Python;
 * QGIS;
-* Geemap;
 * Google Earth Engine;
+* Geemap;
 * Geopandas;
 * Pandas;
 * Rasterio
