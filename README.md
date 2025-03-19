@@ -38,13 +38,13 @@
         <span>Google Earth Engine</span><br><br>
         <img height="64px" src="https://developers.google.com/static/earth-engine/images/landing_ee_logo_480.png">
       </td>
+       <td width="25%" align="center">
+        <span>Pandas</span><br><br>
+        <img height="64px" src="https://pandas.pydata.org/static/img/pandas.svg">
+      </td>
       <td width="25%" align="center">
         <span>GeoPandas</span><br><br>
         <img height="64px" src="https://geopandas.org/en/stable/_images/geopandas_logo.png">
-      </td>
-      <td width="25%" align="center">
-        <span>Pandas</span><br><br>
-        <img height="64px" src="https://pandas.pydata.org/static/img/pandas.svg">
       </td>
     </tr>
     <tr valign="top">
