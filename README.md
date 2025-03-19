@@ -47,11 +47,6 @@
         <img height="64px" src="https://geopandas.org/en/stable/_images/geopandas_logo.png">
       </td>
     </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Seaborn</span><br><br>
-        <img height="64px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
-      </td>
       <td width="25%" align="center">
         <span>Geemap</span><br><br>
         <img height="64px" src="https://i.imgur.com/9OOSpDm.png">
