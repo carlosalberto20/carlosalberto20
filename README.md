@@ -51,6 +51,10 @@
         <span>Matplotlib</span><br><br>
         <img height="64px" src="https://matplotlib.org/_images/sphx_glr_logos2_001.png">
       </td>
+      <td width="25%" align="center">
+        <span>GeoPandas</span><br><br>
+        <img height="64px" src="https://geopandas.org/en/stable/_images/geopandas_logo.png">
+      </td>
     </tr>
   </tbody>
 </table>
