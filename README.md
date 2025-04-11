@@ -7,8 +7,8 @@
 
 ⭐️ Experiências:
 * 🗺️ Desenvolvimento de mapas interativos e estáticos usando Python e QGIS;
-* ⚙️ Extração e manipulação de dados geoespaciais;
-* 💡 Análise, tratamento e gerenciamento de dados;
+* ⚙️ Extração, manipulação e interpretação de dados geoespaciais;
+* 💡 Análise, tratamento e gerenciamento de banco de dados;
 * 📊 Visualização de dados.
 
 🛠 Ferramentas:
