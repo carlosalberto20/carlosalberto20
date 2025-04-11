@@ -57,7 +57,7 @@
       </td>
        <td width="25%" align="center">
         <span>Pandas</span><br><br>
-        <img height="64px" src="https://pandas.pydata.org/static/img/pandas.svg">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
       </td>
     </tr>
   </tbody>
