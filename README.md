@@ -55,6 +55,10 @@
         <span>GeoPandas</span><br><br>
         <img height="64px" src="https://geopandas.org/en/stable/_images/geopandas_logo.png">
       </td>
+       <td width="25%" align="center">
+        <span>Pandas</span><br><br>
+        <img height="64px" src="https://pandas.pydata.org/static/img/pandas.svg">
+      </td>
     </tr>
   </tbody>
 </table>
