@@ -12,16 +12,6 @@
 * 📊 Visualização de dados.
 
 🛠 Ferramentas:
-* Python;
-* QGIS;
-* Google Earth Engine;
-* Geemap;
-* Geopandas;
-* Pandas;
-* Rasterio
-* Matplotlib;
-* Scikit-Learn;
-* Numpy.
 
 <table align="center">
   <tbody>
