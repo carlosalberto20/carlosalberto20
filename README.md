@@ -9,7 +9,7 @@
 * 🗺️ Desenvolvimento de mapas interativos e estáticos usando Python e QGIS;
 * ⚙️ Extração, manipulação e interpretação de dados geoespaciais;
 * 💡 Análise, tratamento e gerenciamento de banco de dados;
-* 📊 Visualização de dados.
+* 📊 Visualização de dados para intepretações estatísticas.
 
 🛠 Ferramentas:
 
