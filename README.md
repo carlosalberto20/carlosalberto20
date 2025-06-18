@@ -11,7 +11,7 @@
 * 💡 Análise, tratamento e gerenciamento de banco de dados;
 * 📊 Visualização de dados para intepretações estatísticas.
 
-🛠 Ferramentas:
+🛠 Ferramentas e Bibliotecas:
 
 <table align="center">
   <tbody>
