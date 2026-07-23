@@ -2,7 +2,7 @@
 
 ## Geógrafo / Geoprocessamento / Análise de Dados Geográficos
 
-### Sobre mim:
+### Um pouco sobre mim:
 👩‍🎓 Bacharel em Geografia pela Universidade Federal de Pernambuco (UFPE) com foco profissional em Geoprocessamento, SIG, Sensoriamento Remoto e Análise de Dados. Possui conhecimento científico e experiência profissional na área da climatologia, geotecnia, monitoramento agrícola e monitoramento de desmatamento.
 
 ⭐️ Experiências:
@@ -11,7 +11,7 @@
 * 💡 Análise, tratamento e gerenciamento de banco de dados;
 * 📊 Visualização de dados para intepretações estatísticas.
 
-🛠 Ferramentas e Bibliotecas:
+🛠 Ferramentas que utilizo nos projetos:
 
 <table align="center">
   <tbody>
