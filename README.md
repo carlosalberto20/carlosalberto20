@@ -22,7 +22,7 @@
       </td>
       <td width="25%" align="center">
         <span>QGIS</span><br><br>
-        <img height="64px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/QGIS_logo%2C_2017.svg/801px-QGIS_logo%2C_2017.svg.png](https://icon-icons.com/pt/icone/qgis-logo/170816)">
+        <img height="64px" src="https://images.icon-icons.com/2699/PNG/512/qgis_logo_icon_170816.png">
       </td>
       <td width="25%" align="center">
         <span>Google Earth Engine</span><br><br>
