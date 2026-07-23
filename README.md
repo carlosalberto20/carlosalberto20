@@ -28,27 +28,6 @@
         <span>Google Earth Engine</span><br><br>
         <img height="64px" src="https://developers.google.com/static/earth-engine/images/landing_ee_logo_480.png">
       </td>
-       <td width="25%" align="center">
-        <span>Pandas</span><br><br>
-        <img height="64px" src="https://pandas.pydata.org/static/img/pandas.svg">
-      </td>
-    </tr>
-      <td width="25%" align="center">
-        <span>Geemap</span><br><br>
-        <img height="64px" src="https://i.imgur.com/9OOSpDm.png">
-      </td>
-      <td width="25%" align="center">
-        <span>Matplotlib</span><br><br>
-        <img height="64px" src="https://matplotlib.org/_images/sphx_glr_logos2_001.png">
-      </td>
-      <td width="25%" align="center">
-        <span>GeoPandas</span><br><br>
-        <img height="64px" src="https://geopandas.org/en/stable/_images/geopandas_logo.png">
-      </td>
-       <td width="25%" align="center">
-        <span>Scikit Learn</span><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
-      </td>
     </tr>
   </tbody>
 </table>
